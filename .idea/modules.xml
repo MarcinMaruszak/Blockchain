@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain.Blockchain-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain.Blockchain-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain.Blockchain-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain.Blockchain-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain.Blockchain-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain.Blockchain-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Cinema Facade/Blockchain.Topics-Facade-Cinema_Facade.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Cinema Facade/Blockchain.Topics-Facade-Cinema_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Cinema Facade/Blockchain.Topics-Facade-Cinema_Facade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Cinema Facade/Blockchain.Topics-Facade-Cinema_Facade.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Cinema Facade/Blockchain.Topics-Facade-Cinema_Facade.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Cinema Facade/Blockchain.Topics-Facade-Cinema_Facade.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Computer Facade/Blockchain.Topics-Facade-Computer_Facade.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Computer Facade/Blockchain.Topics-Facade-Computer_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Computer Facade/Blockchain.Topics-Facade-Computer_Facade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Computer Facade/Blockchain.Topics-Facade-Computer_Facade.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Computer Facade/Blockchain.Topics-Facade-Computer_Facade.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Computer Facade/Blockchain.Topics-Facade-Computer_Facade.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Smart house/Blockchain.Topics-Facade-Smart_house.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Smart house/Blockchain.Topics-Facade-Smart_house.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Smart house/Blockchain.Topics-Facade-Smart_house.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Smart house/Blockchain.Topics-Facade-Smart_house.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Smart house/Blockchain.Topics-Facade-Smart_house.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Smart house/Blockchain.Topics-Facade-Smart_house.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Theory/Blockchain.Topics-Facade-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Theory/Blockchain.Topics-Facade-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Theory/Blockchain.Topics-Facade-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Theory/Blockchain.Topics-Facade-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Facade/Theory/Blockchain.Topics-Facade-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Facade/Theory/Blockchain.Topics-Facade-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain.util.test.iml" />
+    </modules>
+  </component>
+</project>

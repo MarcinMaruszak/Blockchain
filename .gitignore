@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Blockchain/task/build/
+/Blockchain/task/out/
+/Blockchain/task/out/production/classes/
+/Topics/Facade/Computer Facade/out/
+/Topics/Facade/Computer Facade/out/production/classes/
